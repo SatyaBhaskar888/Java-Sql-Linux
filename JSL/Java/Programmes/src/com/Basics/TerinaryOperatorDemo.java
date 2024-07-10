@@ -6,6 +6,10 @@ public class TerinaryOperatorDemo {
 
 	public static void main(String[] args) {
 		//
+		TernaryOpMethod();
+	}
+
+	private static void TernaryOpMethod() {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Welcome to Masthan IT solutions coding interview");
 		System.out.println("Enter first Number");
